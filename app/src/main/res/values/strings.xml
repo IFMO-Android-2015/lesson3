@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">City Cam</string>
+    <string name="title_activity_cam_map">Map</string>
+</resources>
